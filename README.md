@@ -3,13 +3,6 @@
 
 # 👨‍💻A passionate frontend developer👨‍💻
 
-![Profile views](https://komarev.com/ghpvc/?username=ImRLopezAG&color=green)
-
-- 🌱 I’m currently learning **Next js** and **GraphQl**
-- ⚡ Fun fact: I use spaces over tabs.
-- 📫 How to reach me: angelg00lopez@gmail.com
-- 📋 Look at my resume here: [Full Stack Developer](https://docs.google.com/document/d/176L3kfuVECauW3vadR9yKZREDEfgXDadVGqQ3zm51wc)
-
 ## Skill Set
 
 | Frontend | Backend | DevOps |
@@ -36,6 +29,8 @@
 </div>
 
 ## About me
+
+![Profile views](https://komarev.com/ghpvc/?username=ImRLopezAG&color=green)
 
 - I am a charismatic person, somewhat nice 😁
 - I like basketball 🏀, spending time with my friends, going to the beach 🏖️, and enjoying tranquility.
